@@ -1,0 +1,1 @@
+This repository for game development in c++, and for learning only
